@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "25149842734",
+    "firebase_url": "https://dlyatrenerovki.firebaseio.com",
+    "project_id": "dlyatrenerovki",
+    "storage_bucket": "dlyatrenerovki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25149842734:android:98801c9cc822b3fb",
+        "android_client_info": {
+          "package_name": "com.example.maks.trenerovka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25149842734-rv4lnjbig0fjaakp8fabua2vna28rmpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maks.trenerovka",
+            "certificate_hash": "9b1b002a6e65bfc3df3fd98d75ba7aed5e656bc4"
+          }
+        },
+        {
+          "client_id": "25149842734-4fcgb27uninfuh1qmooqd2j1qud4fchu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa7_5yEwPf5i4h_MrYI0iQnFTL5Vrx1N4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25149842734-4fcgb27uninfuh1qmooqd2j1qud4fchu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
